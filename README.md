@@ -1,43 +1,29 @@
-<p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Sravan · AI builder · founder in the making" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/name-dark.svg" />
+  <img src="./assets/name-light.svg" width="560" alt="Sravan Samudrala" />
+</picture>
 
-<p align="center">
-  <img src="./assets/neofetch.svg" width="100%" alt="sravan@github neofetch" />
-</p>
+I build software with AI and turn ideas into products, fast.<br>
+First-year CS at Newton School of Technology. Working on a startup.
 
-<p align="center">
-  <a href="https://x.com/sdvngupta9"><img src="https://img.shields.io/badge/follow_the_build-@sdvngupta9-0B1020?style=flat-square&logo=x&logoColor=white&labelColor=05060A" alt="X" /></a>
-</p>
+&nbsp;
 
----
+**Now**<br>
+&nbsp;&nbsp;Building an AI-first product in stealth<br>
+&nbsp;&nbsp;Exploring agent workflows with Claude Code and Codex
 
-### `$ cat philosophy.txt`
+**Projects**<br>
+&nbsp;&nbsp;[digital-detective](https://github.com/sravan793/digital-detective-8027) · number-system converter in Python<br>
+&nbsp;&nbsp;[new-website](https://github.com/sravan793/new-website) · a hand-built site, no frameworks<br>
+&nbsp;&nbsp;[my-portfolio](https://github.com/sravan793/my-portfolio-) · my corner of the internet
 
-> Ideas are cheap. Shipped is everything.
-> I use AI agents as a force multiplier, so a first-year can build what used to take a team.
+**Next up**<br>
+&nbsp;&nbsp;HackerRank Orchestrate · Dec 2026<br>
+&nbsp;&nbsp;Devfolio Goa Buildathon · Jan 2027
 
-### `$ ls ./projects`
+**Stack**<br>
+&nbsp;&nbsp;Python · JavaScript · HTML/CSS · Git · Docker · Linux
 
-| | Project | What it does |
-|:-:|---|---|
-| 🕵️ | **[digital-detective](https://github.com/sravan793/digital-detective-8027)** | Python number-system converter, built as an 8-mission Git & Linux investigation |
-| 🌐 | **[my-portfolio](https://github.com/sravan793/my-portfolio-)** | My personal corner of the internet |
-| 🧱 | **[new-website](https://github.com/sravan793/new-website)** | A hand-built HTML site, zero frameworks |
-| 🔒 | **stealth-startup** | AI-first product in the works. Watch this space |
+&nbsp;
 
-### `$ tail -f build.log`
-
-```diff
-+ [2026-11] Started building in public
-+ [2026-12] HackerRank Orchestrate, Bengaluru
-+ [2027-01] Devfolio Goa Buildathon
-+ [  next ] Ship v1 of the startup
-```
-
-### `$ ./collaborate.sh`
-
-Building something ambitious, need a hackathon teammate, or want to talk AI and startups?
-**DM me on [X](https://x.com/sdvngupta9).** I reply faster than my compiler.
-
-<p align="right"><sub><code>exit 0</code></sub></p>
+[X](https://x.com/sdvngupta9) &nbsp;·&nbsp; [GitHub](https://github.com/sravan793)

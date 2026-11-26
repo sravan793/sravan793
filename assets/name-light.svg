@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="120" viewBox="0 0 720 120">
+  <style>.n{font-family:Inter,-apple-system,'Segoe UI',Helvetica,Arial,'DejaVu Sans',sans-serif;font-weight:700;letter-spacing:-1.5px}.s{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace}.d{animation:p 2.4s ease-in-out infinite}@keyframes p{50%{opacity:.35}}</style>
+  <text x="2" y="62" class="n" font-size="52" fill="#111111">Sravan Samudrala<tspan fill="#8B5CF6">.</tspan></text>
+  <circle cx="7" cy="96" r="5" fill="#22C55E" class="d"/>
+  <text x="22" y="101" class="s" font-size="15" fill="#6B7280">building an AI-first startup · Bengaluru</text>
+</svg>

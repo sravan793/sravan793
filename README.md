@@ -13,7 +13,7 @@ First-year CS at Newton School of Technology. Working on a startup.
 &nbsp;&nbsp;Exploring agent workflows with Claude Code and Codex
 
 **Projects**<br>
-&nbsp;&nbsp;[digital-detective](https://github.com/sravan793/digital-detective-8027) · number-system converter in Python<br>
+&nbsp;&nbsp;[digital-detective](https://github.com/sravan793/digital-detective-8027) · an 8-mission Git and Linux investigation<br>
 &nbsp;&nbsp;[new-website](https://github.com/sravan793/new-website) · a hand-built site, no frameworks<br>
 &nbsp;&nbsp;[my-portfolio](https://github.com/sravan793/my-portfolio-) · my corner of the internet
 

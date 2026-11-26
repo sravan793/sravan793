@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="345" viewBox="0 0 1000 345">
+<style>.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"DejaVu Sans Mono",monospace;font-size:15px}.k{fill:#F472B6;font-weight:700}.v{fill:#E2E8F0}.a{fill:#A78BFA}.h{fill:#22D3EE;font-weight:700}.d{fill:#475569}</style>
+<rect width="1000" height="345" rx="16" fill="#0B1020"/>
+<rect x="0.5" y="0.5" width="999" height="344" rx="16" fill="none" stroke="#1F2937"/>
+<rect width="1000" height="34" rx="16" fill="#111827"/><rect y="18" width="1000" height="16" fill="#111827"/>
+<circle cx="24" cy="17" r="6" fill="#F87171"/><circle cx="44" cy="17" r="6" fill="#FBBF24"/><circle cx="64" cy="17" r="6" fill="#34D399"/>
+<text x="500" y="22" text-anchor="middle" class="m d" style="font-size:13px">sravan@github: ~ — neofetch</text>
+<text x="40" y="78" class="m a" xml:space="preserve">      .:=+***+=:.      </text>
+<text x="40" y="97" class="m a" xml:space="preserve">   .=#%%%%%%%%%%#=.    </text>
+<text x="40" y="116" class="m a" xml:space="preserve">  -%%%%#+=--=+#%%%-    </text>
+<text x="40" y="135" class="m a" xml:space="preserve"> .%%%%=        -*+.    </text>
+<text x="40" y="154" class="m a" xml:space="preserve">  #%%%%*=:.            </text>
+<text x="40" y="173" class="m a" xml:space="preserve">  .+%%%%%%%#*+=:.      </text>
+<text x="40" y="192" class="m a" xml:space="preserve">     :=+*#%%%%%%%*:    </text>
+<text x="40" y="211" class="m a" xml:space="preserve">           .:=*%%%%#   </text>
+<text x="40" y="230" class="m a" xml:space="preserve">  .+*-        .%%%%%.  </text>
+<text x="40" y="249" class="m a" xml:space="preserve">   =%%%#+=--=+#%%%%=   </text>
+<text x="40" y="268" class="m a" xml:space="preserve">    .=#%%%%%%%%%%#=.   </text>
+<text x="40" y="287" class="m a" xml:space="preserve">       .:=+***+=:.     </text>
+<text x="360" y="70" class="m h">sravan@github</text>
+<text x="360" y="89" class="m d">-------------</text>
+<text x="360" y="108" class="m"><tspan class="k">OS</tspan><tspan class="d">: </tspan><tspan class="v">Bengaluru, India</tspan></text>
+<text x="360" y="127" class="m"><tspan class="k">Uptime</tspan><tspan class="d">: </tspan><tspan class="v">18 years</tspan></text>
+<text x="360" y="146" class="m"><tspan class="k">Host</tspan><tspan class="d">: </tspan><tspan class="v">Newton School of Technology</tspan></text>
+<text x="360" y="165" class="m"><tspan class="k">Kernel</tspan><tspan class="d">: </tspan><tspan class="v">B.Tech Computer Science, Year 1</tspan></text>
+<text x="360" y="184" class="m"><tspan class="k">Shell</tspan><tspan class="d">: </tspan><tspan class="v">Python · JavaScript · HTML/CSS</tspan></text>
+<text x="360" y="203" class="m"><tspan class="k">IDE</tspan><tspan class="d">: </tspan><tspan class="v">VS Code + Claude Code + Codex</tspan></text>
+<text x="360" y="222" class="m"><tspan class="k">Process</tspan><tspan class="d">: </tspan><tspan class="v">building an AI-first startup</tspan></text>
+<text x="360" y="241" class="m"><tspan class="k">Arena</tspan><tspan class="d">: </tspan><tspan class="v">HackerRank Orchestrate · Goa Buildathon</tspan></text>
+<text x="360" y="260" class="m"><tspan class="k">Hobbies</tspan><tspan class="d">: </tspan><tspan class="v">gadgets · movies · shipping</tspan></text>
+<text x="360" y="298" class="m"><tspan class="k">Contact</tspan><tspan class="d">: </tspan><tspan class="v">x.com/sdvngupta9</tspan></text>
+<rect x="360" y="319" width="26" height="14" rx="3" fill="#F87171"/>
+<rect x="390" y="319" width="26" height="14" rx="3" fill="#FBBF24"/>
+<rect x="420" y="319" width="26" height="14" rx="3" fill="#34D399"/>
+<rect x="450" y="319" width="26" height="14" rx="3" fill="#22D3EE"/>
+<rect x="480" y="319" width="26" height="14" rx="3" fill="#60A5FA"/>
+<rect x="510" y="319" width="26" height="14" rx="3" fill="#A78BFA"/>
+<rect x="540" y="319" width="26" height="14" rx="3" fill="#F472B6"/>
+<rect x="570" y="319" width="26" height="14" rx="3" fill="#E2E8F0"/>
+</svg>
